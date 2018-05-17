@@ -1,2 +1,4 @@
-# modeloProcuracao
-Modelo simples de procuração escrito em latex.
+# Modelo de Procuração
+Modelo simples de procuração de amplos poderes transcrito para latex.
+
+Autoria: http://natividadejuridica.com/modelo/modelo-de-procuracao-geral/ 
